@@ -166,25 +166,12 @@ table {
     border: 1px solid dimgray;
 }
 
-/* .workspace {
-    display: flex;
-    width: 100%;
-} */
-
 .numbers {
     display: flex;
     flex-flow: row wrap;
 
     width: 100%;
 }
-
-/* .numbersOne {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    width: 30%;
-    margin: 1px;
-} */
 
 .number {
     display: flex;
